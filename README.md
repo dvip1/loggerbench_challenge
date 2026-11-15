@@ -7,3 +7,5 @@ go run . -url http://localhost:8080 -devices 5000 -duration 5m
 ```
 
 See `go run . -h` for options. Licensed under the [MIT License](LICENSE).
+
+See [template.md](template.md) for the challenge specification.
